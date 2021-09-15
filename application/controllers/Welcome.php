@@ -13,6 +13,7 @@ class Welcome extends CI_Controller
 	public function sample_function($sample_variable)
 	{
 		# Edited 1:21 AM
+		# Hello Team
 	}
 
 }
